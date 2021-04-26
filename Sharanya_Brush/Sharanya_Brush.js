@@ -16,7 +16,7 @@ function preload() {
 // you can link to an image on your github account
   img = loadImage('https://shuhrunyuh.github.io/images/blackbrush.png');
   img2 = loadImage('https://shuhrunyuh.github.io/images/clouds.png');
-  img3 = loadImage('https://shuhrunyuh.github.io/images/linetextu4re.png');
+  img3 = loadImage('https://shuhrunyuh.github.io/images/linetexture.png');
   img4 = loadImage('https://shuhrunyuh.github.io/images/musicnotes.png');
   img5 = loadImage('https://shuhrunyuh.github.io/images/pastelrainbow.jpg');
   img6 = loadImage('https://shuhrunyuh.github.io/images/soundwaves.png');
